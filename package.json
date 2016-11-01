@@ -10,10 +10,10 @@
   },
   "devDependencies": {
     "eslint": "^3.9.1",
-    "gulp": "^3.8.11",
-    "concat-stream": "^1.4.8",
+    "gulp": "^3.9.1",
+    "concat-stream": "^1.5.2",
     "prova": "^3.0.0",
-    "proxyquire": "^1.7.3",
+    "proxyquire": "^1.7.10",
     "tape": "^4.6.2"
   },
   "keywords": [
